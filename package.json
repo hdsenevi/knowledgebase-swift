@@ -1,0 +1,25 @@
+{
+  "name": "knowledgebase-swift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve",
+    "publish": "node_modules/.bin/gulp publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdsenevi/knowledgebase-swift.git"
+  },
+  "author": "Shanaka 'hdsenevi' Senevirathne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdsenevi/knowledgebase-swift/issues"
+  },
+  "homepage": "https://github.com/hdsenevi/knowledgebase-swift#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-load-plugins": "^2.0.4"
+  }
+}
